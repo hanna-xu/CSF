@@ -7,7 +7,7 @@ CUDA_VISIBLE_DEVICES=0 python main.py
 
 
 #### For training:<br>
-The training dataset can be downloaded *[here](https://pan.baidu.com/s/18hQyGNlhVb3oXAXOJ5LZCQ)<br>
+The training dataset can be downloaded [here](https://pan.baidu.com/s/18hQyGNlhVb3oXAXOJ5LZCQ)<br>
 
 If this work is helpful to you, please cite it as:
 ```
